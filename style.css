@@ -14,4 +14,9 @@ nav{
     backdrop-filter: blur(100px);
     box-shadow: 0 0 35px #333;
     border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 42%;
+    margin-top: 44%;
 }
